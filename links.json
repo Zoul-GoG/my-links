@@ -1,0 +1,12 @@
+{
+  {
+    "title" : "Envoyer plusieurs mails customizés à différentes personnes | Use mail merge to send bulk email messages",
+    "link" : "https://support.microsoft.com/en-us/office/use-mail-merge-to-send-bulk-email-messages-0f123521-20ce-4aa8-8b62-ac211dedefa4",
+    "description" : "Je voulais envoyer les résultats de codingame des étudiants de la Coding, il fallait send le lien de chacun et éventuellement des informations sur les tests de chacun. Donc voilà..."
+  },
+  {
+    "title" : "Accès non accordé à mysql (linux) depuis un projet ou phpmyadmin | [Solved] ERROR 1698 (28000) Access denied for user 'root'@'localhost'",
+    "link" : "https://linuxnightly.com/error-1698-28000-access-denied-for-user-rootlocalhost/",
+    "description" : "Je recevais ce message d'erreur -- [Solved] ERROR 1698 (28000) Access denied for user 'root'@'localhost' -- en essayant de me connecter à mysql sur mon Ubuntu depuis mon projet php ou phpmyadmin. Il fallait donner les flush rights à mon user."
+  }
+}
