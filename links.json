@@ -18,5 +18,10 @@
     "title": "Artisan migrate could not find driver",
     "link": "https://stackoverflow.com/questions/46745365/artisan-migrate-could-not-find-driver",
     "description": "Une erreur de could not find driver avec php"
+  },
+  {
+    "title": "PHP Warning: PHP Startup: Unable to load dynamic library 'pdo_mysql.so'",
+    "link": "https://stackoverflow.com/questions/62240102/php-warning-php-startup-unable-to-load-dynamic-library-pdo-mysql-so",
+    "description": "Erreur après avoir activé l'extension PDO de mysql dans le php.ini : Unable to load dynamic library 'pdo_mysql.so'"
   }
 }
