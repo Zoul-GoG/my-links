@@ -28,5 +28,10 @@
     "title": "Web GOAT",
     "link":"https://owasp.org/www-project-webgoat/",
     "desc": "Cyber sécurité, s'entrainer avec une plateforme"
+  },
+  {
+    "title": "NMAP : Nmap is a free and powerful port scanner tool to scan hosts on a network. CMD : nmap -T4 -A -p- --script vuln site.com (Tester tous les ports) OU nmap -T4 -A --script vuln site.com (pour tester les 1000 premiers ports)",
+    "link": "https://www.cyberithub.com/how-to-install-nmap-on-ubuntu-20-04-lts-focal-fossa/",
+    "desc": "Tester les CVE vulnérabilités sur un site"
   }
 }
