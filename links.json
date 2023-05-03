@@ -38,5 +38,10 @@
     "title": "Voir les CVE en ligne",
     "link": "https://www.exploit-db.com/",
     "desc": "Voir des CVE et s'en protéger"
+  },
+  {
+    "title": "Installer phpMyAdmin sur Ubuntu",
+    "link": "https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-20-04-fr",
+    "desc": "Se simplifier la vie avec les tables SQL ;)"
   }
 }
