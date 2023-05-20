@@ -43,5 +43,10 @@
     "title": "Installer phpMyAdmin sur Ubuntu",
     "link": "https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-20-04-fr",
     "desc": "Se simplifier la vie avec les tables SQL ;)"
+  },
+  {
+    "title": "11 Fun Linux Command-Line Programs You Should Try When Bored",
+    "link": "https://www.makeuseof.com/fun-linux-command-line-programs/",
+    "desc": "Juste pour se marrer"
   }
 }
