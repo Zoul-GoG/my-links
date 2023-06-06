@@ -53,5 +53,10 @@
     "title": "Free ressources for dev",
     "link": "https://free-for.dev/",
     "desc": "get free ressources to help a dev to work"
+  },
+  {
+    "title": "Continous Deployment using TRAVIS",
+    "link": "https://medium.com/@marcelheeremans/a-ci-cd-pipeline-of-avue-js-app-using-travis-and-github-pages-b523c66e9c4e",
+    "desc": "CI"
   }
 }
