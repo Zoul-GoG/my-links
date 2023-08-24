@@ -58,5 +58,10 @@
     "title": "Continous Deployment using TRAVIS",
     "link": "https://medium.com/@marcelheeremans/a-ci-cd-pipeline-of-avue-js-app-using-travis-and-github-pages-b523c66e9c4e",
     "desc": "CI"
+  },
+  {
+    "title": "Error in mongodb installation on ubuntu22.04 jammy"
+    "link": "https://www.mongodb.com/community/forums/t/getting-error-while-updating-mongodb-from-6-to-7-in-ubuntu-22-04/239822/5",
+    "desc": "Got this error << W: GPG error: https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/7.0 Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 160D26BB1785BA38 E: The repository 'https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/7.0 Release' is not signed. >> while trying to sudo apt update"
   }
 }
