@@ -63,5 +63,10 @@
     "title": "Error in mongodb installation on ubuntu22.04 jammy"
     "link": "https://www.mongodb.com/community/forums/t/getting-error-while-updating-mongodb-from-6-to-7-in-ubuntu-22-04/239822/5",
     "desc": "Got this error << W: GPG error: https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/7.0 Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 160D26BB1785BA38 E: The repository 'https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/7.0 Release' is not signed. >> while trying to sudo apt update"
+  },
+  {
+    "title": "Job for mysql.service failed because the control process exited with error code. See \"systemctl status mysql.service\" and \"journalctl -xeu mysql.service\" for details.               ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)",
+    "link": "https://stackoverflow.com/questions/70813122/getting-error-mysql-service-failed-because-the-control-process-exited-with-erro",
+    "desc": "Getting this error 'ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)' when trying to connect to mysql"
   }
 }
